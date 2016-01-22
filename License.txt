@@ -1,0 +1,5 @@
+1. OZEO Template is publish under a CC-BY-SA http://creativecommons.org/licenses/by-sa/3.0/ You can copy and redistribute the OZEO Theme in any medium or format, remix, transform, and build it but you must give appropriate credit (link to css-workshop.com or fronteos.com in footer of the theme), provide a link to the license, and indicate if changes were made. If you remix, transform, or build the OZEO Theme, you must distribute your contributions under the same license - CC-BY-SA.
+2. All images used in OZEO Theme are published under a GNU GPL License http://www.gnu.org/licenses/gpl-3.0.txt You can copy, modify, publish, redistribute those files even commercially.
+3. Bootstrap front-end framework is licensed under http://www.apache.org/licenses/LICENSE-2.0
+4. Font Awesome is licensed as a font under SIL OFL 1.1 http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL and as a code under MIT License http://opensource.org/licenses/mit-license.html
+5. jQuery JS library is licensed under MIT License http://opensource.org/licenses/mit-license.html read more: https://jquery.org/license/
